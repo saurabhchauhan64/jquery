@@ -1,0 +1,5 @@
+Shape_type,cx,cy,rx,ry,r,x,y,width,height,color
+circle,200,100,,,30,,,,,black
+ellipse,100,50,100,20,,,,,,Green
+line,300,300,20,150,,,,,,red
+rect,,,,,,350,20,200,100,pink
